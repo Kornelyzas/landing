@@ -1,0 +1,1354 @@
+# Translation of Themes - Screenr in Lithuanian
+# This file is distributed under the same license as the Themes - Screenr package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-09-30 10:30:57+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && (n % 100 < 11 || n % 100 > 19)) ? 0 : ((n % 10 >= 2 && n % 10 <= 9 && (n % 100 < 11 || n % 100 > 19)) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: lt\n"
+"Project-Id-Version: Themes - Screenr\n"
+
+#. Description of the theme
+msgid "Big - Bold and stylish, Screenr is a multiuse fullscreen theme well suited for business, portfolio, digital agency, product showcase, freelancers and everyone else who appreciate good design. Also with the flexible of the header and navigation, it can be use for one page or multiple pages website. The theme was built on Bootstrap 4, so you know it contains clean, precise code that makes for a highly streamlined site. (Live preview : http://www.famethemes.com/preview/?theme=Screenr)"
+msgstr "Didelė, drąsi ir stilinga, Screenr yra daugia-funkcinė pilno ekrano išvaizdos tema su paralakso efektu, puikiai tinkanti verslo, portfolio, agentūros ar specialisto svetainei bei visiems, kurie vertina gerą dizainą. Lankstūs antraštės ir navigacijos nustatymai leidžia šią temą naudoti tiek vieno, tiek daugelio puslapių tinklalapiams. Ši tema sukurta naudojant Bootstrap 4, taigi galite būti tikri, kad naudojamas švarus ir tikslus kodas, leidžiantis sukurti gerai optimizuotą tinklalapį. (Demonstracija : http://www.famethemes.com/preview/?theme=Screenr)"
+
+#. Theme Name of the theme
+#: inc/dashboard.php:312
+msgid "Screenr"
+msgstr "Screenr"
+
+#: inc/customizer.php:614
+msgid "Select your shop layout"
+msgstr "Pasirinkite savo parduotuvės išdėstymą"
+
+#: inc/customizer.php:580 inc/customizer.php:610
+msgid "No Sidebar"
+msgstr "Nėra šoninės juostos"
+
+#: inc/customizer.php:606
+msgid "Shop Layout"
+msgstr "Parduotuvės išdėstymas"
+
+#: inc/customizer.php:592
+msgid "Shop Layout Settings"
+msgstr "Parduotuvės išdėstymo nustatymai"
+
+#: functions.php:201
+msgid "Shop"
+msgstr "Parduotuvė"
+
+#: inc/dashboard.php:538
+msgid "How can I contribute?"
+msgstr "Kaip galiu prisidėti?"
+
+#: inc/dashboard.php:344
+msgid "Create a support ticket"
+msgstr "Klausti pagalbos"
+
+#: inc/dashboard.php:523
+msgid "FameThemes Demo Importer"
+msgstr "FameThemes importavimo įrankis"
+
+#: inc/dashboard.php:521
+msgid "Hey, you will need to install and activate the %1$s plugin first."
+msgstr "Pirmiausiai reikia įdiegti ir aktyvuoti įskiepį %1$s."
+
+#: inc/dashboard.php:406
+msgid "Recommend Plugins"
+msgstr "Rekomenduojami įskiepiai"
+
+#: inc/dashboard.php:228
+msgid "Details"
+msgstr "Detalės"
+
+#: inc/dashboard.php:186 inc/dashboard.php:483
+msgid "Install Now"
+msgstr "Įdiegti"
+
+#: inc/customizer.php:1947
+msgid "Enable Lightbox"
+msgstr "Įjungti Lightbox"
+
+#: inc/customizer.php:1933
+msgid "Number items"
+msgstr "Skaičių elementai"
+
+#: inc/customizer.php:1908
+msgid "Layout columns"
+msgstr "Išdėstymo stulpeliai"
+
+#: inc/customizer.php:1892
+msgid "Row Height"
+msgstr "Eilutės aukštis"
+
+#: inc/customizer.php:1876
+msgid "Item Spacing"
+msgstr "Tarpai tarp elementų"
+
+#: inc/customizer.php:1862
+msgid "Masonry"
+msgstr "Masonry"
+
+#: inc/customizer.php:1861
+msgid "Justified"
+msgstr "Pagal abu kraštus"
+
+#: inc/customizer.php:1860
+msgid "Slider"
+msgstr "Skaidrės"
+
+#: inc/customizer.php:1859
+msgid "Carousel"
+msgstr "Karuselė"
+
+#: inc/customizer.php:1858
+msgid "Grid"
+msgstr "Tinklelis"
+
+#: inc/customizer.php:1853
+msgid "Display"
+msgstr "Atvaizdavimas"
+
+#: inc/customizer.php:1839
+msgid "Full Width"
+msgstr "Pilnas plotis"
+
+#: inc/customizer.php:1838
+msgid "Default, inside container"
+msgstr "Numatytasis, konteinerio viduje"
+
+#: inc/customizer.php:1833
+msgid "Layout"
+msgstr "Išdėstymas"
+
+#: inc/customizer.php:1819
+msgid "Select a page which have content contain [gallery] shortcode."
+msgstr "Pasirinkite puslapį kurio turinyje yra [gallery] redaktoriaus žyma."
+
+#: inc/customizer.php:1814
+msgid "Select Gallery Page"
+msgstr "Pasirinkti galerijos puslapį"
+
+#: inc/customizer.php:1797
+msgid "Page"
+msgstr "Puslapis"
+
+#: inc/customizer.php:1792
+msgid "Select Gallery Source"
+msgstr "Pasirinkti galerijos šaltinį"
+
+#: inc/customizer.php:1765
+msgid "Section Description"
+msgstr "Skilties aprašymas"
+
+#: inc/customizer.php:1749
+msgid "Section Subtitle"
+msgstr "Skilties paantraštė"
+
+#: inc/customizer.php:1734
+msgid "Section Title"
+msgstr "Skilties pavadinimas"
+
+#: inc/customizer.php:1714
+msgid "gallery"
+msgstr "galerija"
+
+#: inc/customizer.php:1678 inc/customizer.php:1729
+#: inc/class-sections-navigation.php:75 section-parts/section-gallery.php:3
+msgid "Gallery"
+msgstr "Galerija"
+
+#: functions.php:140
+msgid "Contact Form 7"
+msgstr "Contact Form 7"
+
+#: inc/dashboard.php:315
+msgid "One Click Demo Import"
+msgstr "Automatinis pavyzdinio turinio importavimas"
+
+#: inc/dashboard.php:154
+msgid "Import Demo Data"
+msgstr "Importuoti pavyzdinius duomenis"
+
+#: inc/dashboard.php:154
+msgid "Save time by import our demo data, your website will be set up and ready to customize in minutes. %s"
+msgstr "Taupykite laiką - importuokite pavyzdinius duomenis ir jūsų svetainė bus parengta tvarkymui per kelias minutes. %s"
+
+#: inc/customizer.php:817
+msgid "Footer copyright border top color"
+msgstr "Poraštės autorių teisių viršutinio rėmelio spalva"
+
+#: inc/customizer.php:799
+msgid "Footer widgets link hover color"
+msgstr "Poraštės skydelių nuorodų aktyvi spalva"
+
+#: inc/customizer.php:781
+msgid "Footer widgets link color"
+msgstr "Poraštės skydelių nuorodų spalva"
+
+#: inc/customizer.php:745
+msgid "Footer widgets heading"
+msgstr "Poraštės skydelių antraštės"
+
+#: inc/customizer.php:582
+msgid "Select your site layout"
+msgstr "Pasirinkite savo tinklalapio išdėstymą"
+
+#: inc/customizer.php:579 inc/customizer.php:612
+msgid "Left Sidebar"
+msgstr "Šoninė juosta kairėje"
+
+#: inc/customizer.php:578 inc/customizer.php:611
+msgid "Right Sidebar"
+msgstr "Šoninė juosta dešinėje"
+
+#: inc/customizer.php:574
+msgid "Site Layout"
+msgstr "Tinklalapio išdėstymas"
+
+#: inc/dashboard.php:560
+msgid "Rate our theme on <a target=\"_blank\" href=\"https://wordpress.org/support/theme/screenr/reviews/?filter=5#postform\">WordPress.org</a>. We'd really appreciate it!"
+msgstr "Įvertinkite ją <a target=\"_blank\" href=\"https://wordpress.org/support/theme/screenr/reviews/?filter=5#postform\">WordPress.org</a>. Mums tai labai svarbu!"
+
+#: inc/dashboard.php:559
+msgid "Are you enjoying Screenr theme?"
+msgstr "Ar džiaugiatės Screenr išvaizdos tema?"
+
+#: inc/dashboard.php:553
+msgid "Translate Screenr"
+msgstr "Išverskite Screenr"
+
+#: inc/dashboard.php:551
+msgid "Get involved at WordPress.org."
+msgstr "Prisidėkite per WordPress.org."
+
+#: inc/dashboard.php:550
+msgid "Are you a polyglot? Want to translate Screenr into your own language?"
+msgstr "Esate poliglotas? Norite išversti Screenr į savo kalbą?"
+
+#: inc/dashboard.php:544
+msgid "Screenr on GitHub"
+msgstr "Screenr GitHUb'e"
+
+#: inc/dashboard.php:542
+msgid "GitHub is the place to go!"
+msgstr "Keliaukite į GitHub'ą!"
+
+#: inc/dashboard.php:541
+msgid "Found a bug? Want to contribute with a fix or create a new feature?"
+msgstr "Radote klaidą? Norite prisidėti pataisymu ar sukurti naują funkciją?"
+
+#: inc/dashboard.php:316
+msgid "Contribute"
+msgstr "Prisidėkite"
+
+#: inc/customizer.php:2952
+msgid "Call To Action"
+msgstr "Raginimas veikti"
+
+#: inc/customizer.php:2942
+msgid "Pricing"
+msgstr "Kaina"
+
+#: inc/customizer.php:2932
+msgid "Team"
+msgstr "Komanda"
+
+#: inc/customizer.php:2922
+msgid "Testimonials"
+msgstr "Atsiliepimai"
+
+#: inc/customizer.php:2912
+msgid "Projects"
+msgstr "Projektai"
+
+#: inc/customizer.php:951
+msgid "Check out the %1s version for full control over the section styling which includes background color, image, video, parallax effect, custom style and more ..."
+msgstr "Išbandykite %1s versiją, jei norite pilnai valdyti skilčių stilių - fono spalvą, paveikslėlius, video, paralakso efektus, nestandartinius stilius ir dar daug kitų ..."
+
+#: inc/customizer.php:936
+msgid "Check out the %1s version for full control over the frontpage SECTIONS ORDER!"
+msgstr "Išbandykite %1s versiją jei norite pilnai kontroliuoti pradinio puslapio skilčių tvarką!"
+
+#: inc/customizer.php:934
+msgid "Drag & Drop Section Orders"
+msgstr "Tempk ir paleisk skilčių tvarką"
+
+#: inc/customizer.php:919
+msgid "Frontpage Sections Order & Styling"
+msgstr "Pradinio puslapio skilčių tvarka ir stilius"
+
+#: inc/customizer.php:884 inc/customizer.php:901
+msgid "Custom CSS"
+msgstr "Individualus CSS"
+
+#: inc/customizer.php:871
+msgid "Upgrade to %1s in order to change site footer copyright information and hide theme author link via Customizer."
+msgstr "Išbandykite $1s jei norite keisti poraštės autorių teisių informaciją ir paslėpti temos autoriaus nuorodą per Vaizdųjį režimą."
+
+#: inc/customizer.php:869
+msgid "Change Footer Copyright Text and Hide Theme Author Link"
+msgstr "Keisti poraštės autorių teisių tekstą ir temos autoriaus nuorodą"
+
+#: inc/customizer.php:151 inc/customizer.php:2915 inc/customizer.php:2925
+#: inc/customizer.php:2935 inc/customizer.php:2945 inc/customizer.php:2955
+msgid "Go Plus"
+msgstr "Rinkitės Plus"
+
+#: inc/customizer.php:148
+msgid "Typography"
+msgstr "Tipografija"
+
+#: inc/customizer.php:137
+msgid "Primary color"
+msgstr "Pagrindinė spalva"
+
+#: inc/customizer.php:118
+msgid "Styling"
+msgstr "Stilius"
+
+#: inc/customizer.php:93
+msgid "Upgrade Now"
+msgstr "Įsigykite dabar"
+
+#. Template Name of the theme
+msgid "Full-Width Page"
+msgstr "Pilnas plotis"
+
+#: inc/extras.php:913
+msgid "%1$s by %2$s"
+msgstr "%1$s %2$s"
+
+#: inc/extras.php:741
+msgid "%s 404 Not Found!"
+msgstr "%s 404 Nerasta!"
+
+#: inc/dashboard.php:305
+msgid "Be sure to check out the %1s or %2s to see some of the possibilities."
+msgstr "Būtinai išbandykite %1s ar %2s jei norite pamatyti kai kurias galimybes."
+
+#: inc/dashboard.php:302
+msgid "Big - Bold and stylish, Screenr is a multiuse parallax fullscreen theme well suited for business, portfolio, digital agency, freelancers and everyone else who appreciate good design."
+msgstr "Didelė, drąsi ir stilinga, Screenr yra daugia-funkcinė pilno ekrano išvaizdos tema su paralakso efektu, puikiai tinkanti verslo, portfolio, agentūros ar specialisto svetainei bei visiems, kurie vertina gerą dizainą."
+
+#: inc/customizer.php:1599 section-parts/section-videolightbox.php:4
+msgid "Parallax & Video Lightbox - Perfected"
+msgstr "Paralaksas bei Video lightbox - ištobulinta"
+
+#: inc/customizer.php:1318 inc/customizer.php:2087 inc/customizer.php:2281
+#: inc/customizer.php:2472 inc/customizer.php:2883
+msgid "Upgrade to %1$s to be able to add more items and unlock other premium features!"
+msgstr "Įsigykite %1$s, jei norite pridėti daugiau elementų ar įjungti kitas premium funkcijas!"
+
+#: inc/customizer.php:1127
+msgid "Check this box to enable parallax effect for hero section."
+msgstr "Pažymėkite, jei norite įjungti paralakso efektą „hero“ skilčiai"
+
+#: inc/customizer.php:1125
+msgid "Enable parallax effect"
+msgstr "Įjungti paralakso efektą"
+
+#: inc/customizer.php:1068
+msgid "Content"
+msgstr "Turinys"
+
+#: inc/customizer.php:91 inc/customizer.php:1065 inc/customizer.php:1318
+#: inc/customizer.php:2087 inc/customizer.php:2281 inc/customizer.php:2472
+#: inc/customizer.php:2883
+msgid "Screenr Plus"
+msgstr "Screenr Plus"
+
+#: inc/customizer.php:1065
+msgid "Upgrade to %1$s to be able to add more items (display as a slider) and self-hosted background video option."
+msgstr "Įsigykite %1$s, jei norite pridėti daugiau elementų (rodyti kaip skaidres) ar saugoti fono video savo serveryje."
+
+#: inc/extras.php:910
+msgid "Copyright %1$s %2$s %3$s. All Rights Reserved."
+msgstr "&copy; %1$s %2$s %3$s. Visos teisės saugomos."
+
+#. Template Name of the theme
+msgid "Frontpage"
+msgstr "Pradinis puslapis"
+
+#. translators: %s: Name of current post.
+#: template-parts/content-single.php:39
+msgid "Continue reading %s"
+msgstr "Toliau skaityti %s"
+
+#: template-parts/content.php:36 template-parts/content-search.php:29
+msgid "read more"
+msgstr "plačiau"
+
+#: template-parts/content-single.php:44 template-parts/content-page.php:18
+msgid "Pages:"
+msgstr "Puslapiai:"
+
+#: template-parts/content-none.php:31
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Deja, neradome to, ko Jūs ieškote. Galbūt pasisektų, jei pasinaudotumėte paieška."
+
+#: template-parts/content-none.php:25
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Deja, pagal Jūsų užklausą nieko nerasta. Pabandykite dar kartą, naudodami kitokius raktažodžius."
+
+#: template-parts/content-none.php:21
+msgid "Get started here"
+msgstr "Pradėkite čia"
+
+#: template-parts/content-none.php:21
+msgid "Ready to publish your first post? %1$s."
+msgstr "Pasirengę paskelbti pirmąjį įrašą? %1$s."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Nieko nerasta"
+
+#: inc/class-sections-navigation.php:81 section-parts/section-services.php:3
+msgid "Our Services"
+msgstr "Mūsų paslaugos"
+
+#: section-parts/section-news.php:89
+msgid "Load More News"
+msgstr "Įkelti daugiau naujienų"
+
+#: section-parts/section-news.php:86
+msgid "Read Our Blog"
+msgstr "Skaitykite tinklaraštį"
+
+#: inc/template-tags.php:356
+msgid "Your comment is awaiting moderation."
+msgstr "Jūsų komentaras laukia patvirtinimo."
+
+#: inc/template-tags.php:350
+msgid "Edit"
+msgstr "Redaguoti"
+
+#: inc/template-tags.php:349
+msgid "Reply"
+msgstr "Atsakyti"
+
+#: inc/template-tags.php:341
+msgid "Post author"
+msgstr "Įrašo autorius(-ė)"
+
+#: inc/template-tags.php:322
+msgid "(Edit)"
+msgstr "(Redaguoti)"
+
+#: inc/template-tags.php:322
+msgid "Pingback:"
+msgstr "Atgalinis pranešimas:"
+
+#: template-parts/content-grid.php:40 inc/template-tags.php:246
+msgid "Read On"
+msgstr "Skaityti toliau"
+
+#. translators: %s: Name of current post
+#: template-parts/content-page.php:29 inc/template-tags.php:161
+msgid "Edit %s"
+msgstr "Redaguoti %s"
+
+#: inc/template-tags.php:154
+msgid "% Comments"
+msgstr "Komentarų: %"
+
+#: inc/template-tags.php:154
+msgid "1 Comment"
+msgstr "Komentarų: 1"
+
+#: inc/template-tags.php:154
+msgid "Leave a comment"
+msgstr "Komentuoti"
+
+#: inc/template-tags.php:148
+msgid "Tagged %1$s"
+msgstr "Pažymėta %1$s"
+
+#: inc/template-tags.php:142
+msgid "Posted in %1$s"
+msgstr "Paskelbta %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:140 inc/template-tags.php:146
+msgid ", "
+msgstr ","
+
+#: inc/template-tags.php:93
+msgctxt "category"
+msgid "Category: %s"
+msgstr "Kategorija: %s"
+
+#: inc/template-tags.php:84
+msgctxt "post author"
+msgid "Author: %s"
+msgstr "Autorius: %s"
+
+#: inc/extras.php:880
+msgid "This widget area is currently disabled. You can enable it Customizer &rarr; Theme Options &rarr; Footer section."
+msgstr "Ši valdiklių zona šiuo metu išjungta. Galite įjungti ją per Vaizdusis režimas &rarr; Temos nustatymai &rarr; Poraštė skiltį."
+
+#: inc/extras.php:737
+msgid "Search Results for: %s"
+msgstr "Paieškos rezultatai skirti: %s"
+
+#: inc/dashboard.php:468
+msgid "Hooray! There are no required actions for you right now."
+msgstr "Šaunu! Nėra jokių šiuo metu reikalingų veiksmų."
+
+#: inc/dashboard.php:467
+msgid "Keep update with %s"
+msgstr "Sekite atnaujinimus su %s"
+
+#: inc/dashboard.php:457
+msgid "Change homepage page template"
+msgstr "Pakeiskite pradinio puslapio šaboną"
+
+#: inc/dashboard.php:444
+msgid "In order to change homepage section contents, you will need to set template \"Frontpage\" for your homepage."
+msgstr "Kad galėtumėte tvarkyti pradinio puslapio skilčių turinį, reikia nustatyti „Pradinio puslapio“ šabloną jūsų pradiniam puslapiui."
+
+#: inc/dashboard.php:441
+msgid "Set your homepage page template to \"Frontpage\"."
+msgstr "Nustatykite pradinio puslapio šabloną į „Pradinis puslapis“."
+
+#: inc/dashboard.php:427 inc/dashboard.php:451
+msgid "Setup front page displays"
+msgstr "Nustatyti pradinio puslapio vaizdavimą"
+
+#: inc/dashboard.php:424
+msgid "In order to have the one page look for your website, please go to Customize -&gt; Static Front Page and switch \"Front page displays\" to \"A static page\"."
+msgstr "Jei norite naudoti vieno puslapio išvaizdą savo tinklalapyje, nueikite į Vaizdusis režimas -&gt; Pradinis puslapis  Ir nustatykite „Pagrindiniame puslapyje rodyti“ nuostatą į „Statinį puslapį“"
+
+#: inc/dashboard.php:422
+msgid "Switch \"Front page displays\" to \"A static page\""
+msgstr "Perjunkite „Pagrindiniame puslapyje rodyti“ nuostatą į „Statinį puslapį“"
+
+#: inc/dashboard.php:342
+msgid "Support for %s WordPress theme is conducted through FameThemes support ticket system."
+msgstr "Pagalba %s WordPress temos naudotojams yra teikiama per FameThemes pagalbos sistemą."
+
+#: inc/dashboard.php:341
+msgid "Having Trouble, Need Support?"
+msgstr "Susidūrėte su problema, reikia pagalbos?"
+
+#: inc/dashboard.php:335
+msgid "Screenr Documentation"
+msgstr "Screenr dokumentacija"
+
+#: inc/dashboard.php:333
+msgid "Need any help to setup and configure %s? Please have a look at our documentations instructions."
+msgstr "Reikia pagalbos įdiegti ir prisitaikyti %s? Naudokitės mūsų dokumentacija."
+
+#: inc/dashboard.php:332
+msgid "Theme Documentation"
+msgstr "Temos dokumentacija"
+
+#: inc/dashboard.php:328
+msgid "Start Customize"
+msgstr "Pradėti keitimą"
+
+#: inc/dashboard.php:326
+msgid "%s supports the Theme Customizer for all theme settings. Click \"Customize\" to start customize your site."
+msgstr "Temos %s nustatymai veikia vaidžiąjame režime. Spauskite \"Konfigūruoti\" ir pradėkite keisti savo tinklalapį."
+
+#: inc/dashboard.php:325
+msgid "Theme Customizer"
+msgstr "Temos nustatymai"
+
+#: inc/dashboard.php:313
+msgid "Actions Required"
+msgstr "Reikalingi veiksmai"
+
+#: inc/dashboard.php:300
+msgid "Welcome to Screenr - Version %1s"
+msgstr "Naudojate Screenr - versija %1s"
+
+#: inc/dashboard.php:144
+msgid "Welcome Page"
+msgstr "sveikinimo puslapį"
+
+#: inc/dashboard.php:144
+msgid "Welcome! Thank you for choosing %1$s! To fully take advantage of the best our theme can offer please make sure you visit our %2$s"
+msgstr "Sveiki! Ačiū, kad pasirinkote %1$s! Norėdami pilnai išnaudoti mūsų išvaizdos temos galimybes, būtinai aplankykite mūsų %2$s"
+
+#: inc/dashboard.php:125
+msgid "Screenr Dashboard"
+msgstr "Screenr valdymo skydelis"
+
+#: inc/dashboard.php:122
+msgid "Screenr Theme"
+msgstr "Screenr tema"
+
+#: inc/dashboard.php:120
+msgid "Screenr Theme %s"
+msgstr "Screenr tema %s"
+
+#: inc/dashboard.php:118
+msgid "%1$s action required"
+msgid_plural "%1$s actions required"
+msgstr[0] "Reikalingas %1$s veiksmas"
+msgstr[1] "Reikalingi %1$s veiksmai"
+msgstr[2] "Reikalingi %1$s veiksmų"
+
+#: inc/customizer.php:2982
+msgid "Font Awesome"
+msgstr "Font Awesome"
+
+#: inc/customizer.php:2978
+msgid "Search"
+msgstr "Paieška"
+
+#: inc/customizer.php:2900
+msgid "Custom url"
+msgstr "Nustatyta nuoroda"
+
+#: inc/customizer.php:2898
+msgid "URL"
+msgstr "Nuoroda"
+
+#: inc/customizer.php:2877
+msgid "Contact Detail Items"
+msgstr "Kontaktų detalių elementas"
+
+#: inc/customizer.php:2855
+msgid "You can install any contact form plugin such as Contact Form 7 and then paste the shortcode of the form here."
+msgstr "Galite įdiegti bet kokį kontaktų formos įskiepį, tokį kaip Contact Form 7 ir čia įterpti jo redaktoriaus žymą."
+
+#: inc/customizer.php:2852
+msgid "Content:"
+msgstr "Turinys:"
+
+#: inc/customizer.php:2820 section-parts/section-contact.php:5
+msgid "Fill out the form below and you will hear from us shortly."
+msgstr "Užpildykite šią formą ir netrukus su jumis susisieksime."
+
+#: inc/customizer.php:2806 section-parts/section-contact.php:4
+msgid "Keep in touch"
+msgstr "Palaikom ryšį"
+
+#: inc/customizer.php:2792 section-parts/section-contact.php:3
+msgid "Contact Us"
+msgstr "Susisiekti"
+
+#: inc/customizer.php:2777
+msgid "contact"
+msgstr "contact"
+
+#: inc/customizer.php:2741
+msgid "Contact"
+msgstr "Kontaktau"
+
+#: inc/customizer.php:2730
+msgid "Link to your posts page."
+msgstr "Nuorodą į jūsų įrašų puslapį."
+
+#: inc/customizer.php:2728
+msgid "Custom load more posts link"
+msgstr "„Įkeiti daugiau įrašų“ nuoroda"
+
+#: inc/customizer.php:2715
+msgid "Custom load more button label"
+msgstr "„Įkelti daugiau įrašų“ mygtuko pavadinimas"
+
+#: inc/customizer.php:2702
+msgid "Hide"
+msgstr "Slėpti"
+
+#: inc/customizer.php:2701
+msgid "Custom link"
+msgstr "Sava nuoroda"
+
+#: inc/customizer.php:2700
+msgid "Ajax load"
+msgstr "Įkelti per AJAX"
+
+#: inc/customizer.php:2696
+msgid "Load more posts button"
+msgstr "„Įkeiti daugiau įrašų“ mygtukas"
+
+#: inc/customizer.php:2661
+msgid "How many posts you want to show."
+msgstr "Kiek įrašų norite rodyti"
+
+#: inc/customizer.php:2659
+msgid "Number Posts:"
+msgstr "Įrašų skaičius:"
+
+#: inc/customizer.php:2570
+msgid "news"
+msgstr "news"
+
+#: inc/customizer.php:2534 inc/customizer.php:2584
+#: inc/class-sections-navigation.php:100 section-parts/section-news.php:2
+msgid "Latest News"
+msgstr "Naujienos"
+
+#: inc/customizer.php:2497
+msgid "Custom background color"
+msgstr "Fono spalva"
+
+#: inc/customizer.php:2493
+msgid "After number"
+msgstr "Po skaičiaus"
+
+#: inc/customizer.php:2489
+msgid "Before number"
+msgstr "Prieš skaičių"
+
+#: inc/customizer.php:2480
+msgid "Number"
+msgstr "Skaičius"
+
+#: inc/customizer.php:2412 section-parts/section-counter.php:3
+msgid "Some Fun Facts about our agency?"
+msgstr "Įdomūs faktai apie mūsų agentūrą?"
+
+#: inc/customizer.php:2383
+msgid "counter"
+msgstr "counter"
+
+#: inc/customizer.php:2347
+msgid "Counter"
+msgstr "Skaičiai"
+
+#: inc/customizer.php:2315
+msgid "Items layout settings"
+msgstr "Elementų išdėstymo nustatymai"
+
+#: inc/customizer.php:2296
+msgid "Client URL"
+msgstr "Kliento nuoroda"
+
+#: inc/customizer.php:2291
+msgid "Client logo"
+msgstr "Kliento logotipas"
+
+#: inc/customizer.php:2286 inc/customizer.php:2476 inc/customizer.php:2888
+msgid "Title"
+msgstr "Pavadinimas"
+
+#: inc/customizer.php:2244
+msgid "Section description:"
+msgstr "Skilties aprašymas;"
+
+#: inc/customizer.php:2195
+msgid "clients"
+msgstr "clients"
+
+#: inc/customizer.php:2159 inc/customizer.php:2275
+msgid "Clients"
+msgstr "Klientai"
+
+#: inc/customizer.php:2142 inc/customizer.php:2517
+msgid "Number columns to display."
+msgstr "Rodomų stulpelių skaičius."
+
+#: inc/customizer.php:2120 section-parts/section-services.php:75
+msgid "More detail &rarr;"
+msgstr "Daugiau &rarr;"
+
+#: inc/customizer.php:2112
+msgid "Show readmore link"
+msgstr "Rodyti „plačiau“ nuorodą"
+
+#: inc/customizer.php:2103
+msgid "No thumbnail"
+msgstr "Be piktogramos"
+
+#: inc/customizer.php:2101
+msgid "Featured image top"
+msgstr "Pagrindinis paveiksliukas viršuje"
+
+#: inc/customizer.php:2098
+msgid "Item style"
+msgstr "Elemento stilius"
+
+#: inc/customizer.php:2032 inc/customizer.php:2229 inc/customizer.php:2417
+#: inc/customizer.php:2602 inc/customizer.php:2811
+msgid "Section subtitle:"
+msgstr "Skilties paantraštė:"
+
+#: inc/customizer.php:2027 inc/customizer.php:2597
+#: section-parts/section-services.php:4 section-parts/section-news.php:3
+msgid "Section subtitle"
+msgstr "Skilties paantraštė"
+
+#: inc/customizer.php:2018 inc/customizer.php:2215 inc/customizer.php:2403
+#: inc/customizer.php:2589 inc/customizer.php:2797
+msgid "Section title:"
+msgstr "Skilties pavadinimas:"
+
+#: inc/customizer.php:1998
+msgid "services"
+msgstr "services"
+
+#: inc/customizer.php:1962 inc/customizer.php:2013
+msgid "Services"
+msgstr "Paslaugos"
+
+#: inc/customizer.php:1647
+msgid "Parallax image:"
+msgstr "Paralakso paveikslėlis:"
+
+#: inc/customizer.php:1631
+msgid "Youtube or Vimeo url, e.g: https://www.youtube.com/watch?v=xxxxx"
+msgstr "Youtube ar Vimeo nuoroda, pvz.: https://www.youtube.com/watch?v=xxxxx"
+
+#: inc/customizer.php:1629
+msgid "Video URL:"
+msgstr "Video nuoroda:"
+
+#: inc/customizer.php:1606
+msgid "Short text about this section."
+msgstr "Trumpas tekstas apie šią skiltį."
+
+#: inc/customizer.php:1604
+msgid "Title:"
+msgstr "Pavadinimas:"
+
+#: inc/customizer.php:1583
+msgid "video"
+msgstr "video"
+
+#: inc/customizer.php:1547
+msgid "Video Lightbox"
+msgstr "Video Lightbox"
+
+#: inc/customizer.php:1536
+msgid "Select content type of page above to display on this section."
+msgstr "Pasirinkite šioje skiltyje rodomo puslapio turinio tipą."
+
+#: inc/customizer.php:1534
+msgid "Page Content"
+msgstr "Puslapio turinys"
+
+#: inc/customizer.php:1533
+msgid "Page excerpt"
+msgstr "Puslapio santrauka"
+
+#: inc/customizer.php:1529
+msgid "Page content type:"
+msgstr "Puslapio turinio tipas"
+
+#: inc/customizer.php:1516
+msgid "Select page to display on this section."
+msgstr "Pasirinkite šioje skiltyje rodomą puslapį."
+
+#: inc/customizer.php:1512
+msgid "Display page:"
+msgstr "Rodyti puslapį:"
+
+#: inc/customizer.php:1453 section-parts/section-about.php:3
+msgid "About us"
+msgstr "Apie mus"
+
+#: inc/customizer.php:1438
+msgid "about"
+msgstr "about"
+
+#: inc/customizer.php:1402
+msgid "About"
+msgstr "Apie"
+
+#: inc/customizer.php:1385 inc/customizer.php:2317 inc/customizer.php:2676
+#: inc/customizer.php:2698
+msgid "Number item per row to display."
+msgstr "Kiek elementų rodyti vienoje eilutėje."
+
+#: inc/customizer.php:559 inc/customizer.php:1383 inc/customizer.php:2140
+#: inc/customizer.php:2515 inc/customizer.php:2674
+msgid "Layout Settings"
+msgstr "Išdėstymo nustatymai"
+
+#: inc/customizer.php:1357 section-parts/section-features.php:49
+#: section-parts/section-features.php:100
+msgid "Read More"
+msgstr "Plačiau"
+
+#: inc/customizer.php:1355 inc/customizer.php:2118
+msgid "Read more text"
+msgstr "„Plačiau“ tekstas"
+
+#: inc/customizer.php:1349
+msgid "Show readmore button"
+msgstr "Rodyti „plačiau“ mykgtuką"
+
+#: inc/customizer.php:1345
+msgid "Paste svg icon code here"
+msgstr "Įterpkite čia SVG ikonos kodą"
+
+#: inc/customizer.php:1338 inc/customizer.php:2102 inc/customizer.php:2107
+#: inc/customizer.php:2484 inc/customizer.php:2893
+msgid "Font icon"
+msgstr "Šrifto ikona"
+
+#: inc/customizer.php:1334 inc/customizer.php:1343
+msgid "SVG icon code"
+msgstr "SVG ikonos kodas"
+
+#: inc/customizer.php:1333
+msgid "Font Icon"
+msgstr "Šrifto ikona"
+
+#: inc/customizer.php:1332
+msgid "Featured image"
+msgstr "Pagrindinis paveikslėlis"
+
+#: inc/customizer.php:1329
+msgid "Thumbnail type"
+msgstr "Piktogramos tipas"
+
+#: inc/customizer.php:1323 inc/customizer.php:2092
+msgid "Content page"
+msgstr "Turinio puslapis"
+
+#: inc/customizer.php:1312 inc/customizer.php:2081 inc/customizer.php:2466
+msgid "Content Items"
+msgstr "Turinio elementai"
+
+#: inc/customizer.php:1283 inc/customizer.php:1497 inc/customizer.php:1614
+#: inc/customizer.php:1776 inc/customizer.php:2057 inc/customizer.php:2254
+#: inc/customizer.php:2442 inc/customizer.php:2627 inc/customizer.php:2836
+msgid "Section Content"
+msgstr "Skilties turinys"
+
+#: inc/customizer.php:1273 inc/customizer.php:1487 inc/customizer.php:2047
+#: inc/customizer.php:2432 inc/customizer.php:2617 inc/customizer.php:2826
+msgid "Section Description:"
+msgstr "Skilties aprašymas;"
+
+#: inc/customizer.php:1258 inc/customizer.php:1472
+msgid "Section Subtitle:"
+msgstr "Skilties paantraštė:"
+
+#: inc/customizer.php:1244 inc/customizer.php:1458
+msgid "Section Title:"
+msgstr "Skilties pavadinimas:"
+
+#: inc/customizer.php:1224
+msgid "features"
+msgstr "features"
+
+#: inc/customizer.php:1199 inc/customizer.php:1413 inc/customizer.php:1558
+#: inc/customizer.php:1688 inc/customizer.php:1973 inc/customizer.php:2170
+#: inc/customizer.php:2358 inc/customizer.php:2545 inc/customizer.php:2752
+msgid "Section Settings"
+msgstr "Skilties nustatymai"
+
+#: inc/customizer.php:1189 inc/class-sections-navigation.php:57
+msgid "Features"
+msgstr "Funkcijos"
+
+#: inc/customizer.php:1176
+msgid "The slider content padding bottom in percent (%)."
+msgstr "Skaidrių turinio atitraukimas apačioje, procentais (%)."
+
+#: inc/customizer.php:1160
+msgid "The slider content padding top in percent (%)."
+msgstr "Skaidrių turinio atitraukimas viršuje, procentais (%)."
+
+#: inc/customizer.php:1143
+msgid "Check this box to make hero section full screen."
+msgstr "Pažymėkite, jei norite, kad ši skiltis užimtų visą puslapio plotį."
+
+#: inc/customizer.php:1141
+msgid "Make hero section full screen"
+msgstr "Padaryti skiltį pilno pločio"
+
+#: inc/customizer.php:1109 inc/customizer.php:1665
+msgid "Background Overlay Color"
+msgstr "Fono uždangos spalva"
+
+#: inc/customizer.php:1087
+msgid "Right"
+msgstr "Dešinėje"
+
+#: inc/customizer.php:1086
+msgid "Left"
+msgstr "Kairėje"
+
+#: inc/customizer.php:1085
+msgid "Center"
+msgstr "Centruota"
+
+#: inc/customizer.php:1082
+msgid "Content align"
+msgstr "Turinio lygiavimas"
+
+#: inc/customizer.php:1074
+msgid "Background Image"
+msgstr "Fono paveikslėlis"
+
+#: inc/extras.php:892
+msgid "Screenr is a multiuse fullscreen WordPress theme."
+msgstr "Screenr yra daugia-funkcinė pilno ekrano WordPress išvaizdos tema.er"
+
+#: inc/customizer.php:1063 inc/customizer.php:1316 inc/customizer.php:2085
+#: inc/customizer.php:2279 inc/customizer.php:2470 inc/customizer.php:2881
+msgid "[live_title]"
+msgstr "[live_title]"
+
+#: inc/customizer.php:1059
+msgid "Hero Item"
+msgstr "Hero elementas"
+
+#: inc/customizer.php:1031 inc/customizer.php:1231 inc/customizer.php:1445
+#: inc/customizer.php:1590 inc/customizer.php:1721 inc/customizer.php:2005
+#: inc/customizer.php:2202 inc/customizer.php:2390 inc/customizer.php:2577
+#: inc/customizer.php:2784
+msgid "The section id, we will use this for link anchor."
+msgstr "Skilties ID, kuris bus naudojamas nuorodoms formuoti."
+
+#: inc/customizer.php:1029 inc/customizer.php:1229 inc/customizer.php:1443
+#: inc/customizer.php:1588 inc/customizer.php:1719 inc/customizer.php:2003
+#: inc/customizer.php:2200 inc/customizer.php:2388 inc/customizer.php:2575
+#: inc/customizer.php:2782
+msgid "Section ID:"
+msgstr "Skilties ID:"
+
+#: inc/customizer.php:1024
+msgid "hero"
+msgstr "hero"
+
+#: inc/customizer.php:1016 inc/customizer.php:1706
+msgid "Check this box to hide this section."
+msgstr "Pažymėkite, jei norite paslėpti šią skiltį."
+
+#: inc/customizer.php:1014 inc/customizer.php:1215 inc/customizer.php:1429
+#: inc/customizer.php:1574 inc/customizer.php:1704 inc/customizer.php:1989
+#: inc/customizer.php:2186 inc/customizer.php:2374 inc/customizer.php:2561
+#: inc/customizer.php:2768
+msgid "Hide this section?"
+msgstr "Paslėpti šią skiltiį?"
+
+#: inc/customizer.php:998
+msgid "Hero"
+msgstr "Hero"
+
+#: inc/customizer.php:965 inc/customizer.php:983
+msgid "Frontpage Sections"
+msgstr "Pradinio puslapio skiltys"
+
+#: inc/customizer.php:854
+msgid "Footer copyright color"
+msgstr "Poraštės autorių teisių spalva"
+
+#: inc/customizer.php:836
+msgid "Footer copyright background color"
+msgstr "Poraštės autorių teisių fono spalva"
+
+#: inc/customizer.php:763
+msgid "Footer widgets text color"
+msgstr "Poraštės valdiklių teksto spalva"
+
+#: inc/customizer.php:727
+msgid "Footer widgets background color"
+msgstr "Poraštės valdiklių fono spalva"
+
+#: inc/customizer.php:708
+msgid "Custom footer 4 columns width"
+msgstr "Poraštės 4 stulpelių plotčiai"
+
+#: inc/customizer.php:693
+msgid "Custom footer 3 columns width"
+msgstr "Poraštės 3 stulpelių pločiai"
+
+#: inc/customizer.php:678
+msgid "Custom footer 2 columns width"
+msgstr "Poraštės 2 stulpelių pločiai"
+
+#: inc/customizer.php:663
+msgid "Disable footer widgets"
+msgstr "Išjungti poraštės valdiklius"
+
+#: inc/customizer.php:657
+msgid "Number footer columns to display."
+msgstr "Poraštės stulpelių skaičius."
+
+#: inc/customizer.php:655
+msgid "Footer Layout"
+msgstr "Poraštės išdėstymas"
+
+#: inc/customizer.php:639
+msgid "Footer"
+msgstr "Poraštė"
+
+#: inc/customizer.php:549
+msgid "Display post category on single post or posts listing page."
+msgstr "Rodyti kategoriją įrašo ar įrašų sąrašo puslapiuose."
+
+#: inc/customizer.php:546
+msgid "Display post category"
+msgstr "Rodyti kategoriją"
+
+#: inc/customizer.php:533
+msgid "Display post comments on single post or posts listing page."
+msgstr "Rodyti komentarus įrašo ar įrašų sąrašo puslapiuose."
+
+#: inc/customizer.php:530
+msgid "Display post comments"
+msgstr "Rodyti komentarus"
+
+#: inc/customizer.php:516
+msgid "Display post author on single post or posts listing page."
+msgstr "Rodyti įrašo autorių įrašo ar įrašų sąrašo puslapiuose."
+
+#: inc/customizer.php:513
+msgid "Display post author"
+msgstr "Rodyti įrašo autorių"
+
+#: inc/customizer.php:500
+msgid "Display post date on single post or posts listing page."
+msgstr "Rodyti įrašo datą įrašo ar įrašų sąrašo puslapiuose."
+
+#: inc/customizer.php:497
+msgid "Display post date"
+msgstr "Rodyti įrašo datą"
+
+#: inc/customizer.php:481
+msgid "Disable featured image in single post"
+msgstr "Išjunkite pagrindinį paveikslėlį įrašo puslapyje"
+
+#: inc/customizer.php:467
+msgid "Custom page header title on single posts."
+msgstr "Pakeisti puslapio antraštę įrašo puslapyje."
+
+#: inc/customizer.php:465
+msgid "Blog title"
+msgstr "Tinklaraščio pavadinimas"
+
+#: inc/extras.php:732 inc/extras.php:739 inc/customizer.php:460
+msgid "The Blog"
+msgstr "Tinklaraštis"
+
+#: inc/customizer.php:450
+msgid "Blog Settings"
+msgstr "Tinklaraščio nustatymai"
+
+#: inc/customizer.php:426
+msgid "The page header padding bottom in percent (%)."
+msgstr "Puslapio antraštės atitraukimas apačioje, procentais (%)."
+
+#: inc/customizer.php:424 inc/customizer.php:1174
+msgid "Padding bottom"
+msgstr "Atitraukimas apačioje"
+
+#: inc/customizer.php:411
+msgid "The page header padding top in percent (%)."
+msgstr "Puslapio antraštės atitraukimas viršuje, procentais (%)."
+
+#: inc/customizer.php:409 inc/customizer.php:1158
+msgid "Padding top"
+msgstr "Atitraukimas viršuje"
+
+#: inc/customizer.php:393
+msgid "Background image overlay color"
+msgstr "Fono uždangos spalva"
+
+#: inc/customizer.php:380
+msgid "Background color"
+msgstr "Fono spalva"
+
+#: inc/customizer.php:362
+msgid "Responsive Menu Button Color"
+msgstr "Prisitaikančio meniu mygtuko spalva"
+
+#: inc/customizer.php:349
+msgid "Only set if you don't use an image logo."
+msgstr "Žymėkite tik jei nenaudojate logotipo paveikslėlio"
+
+#: inc/customizer.php:347
+msgid "Site Title Color"
+msgstr "Tinklaraščio pavadinimo spalva"
+
+#: inc/customizer.php:313
+msgid "Menu Link Hover/Active border color"
+msgstr "Meniu nuorodos aktyvi rėmelio spalva"
+
+#: inc/customizer.php:246 inc/customizer.php:329
+msgid "Menu Link Hover/Active BG Color"
+msgstr "Meniu nuorodos aktyvi fono spalva"
+
+#: inc/customizer.php:230 inc/customizer.php:297
+msgid "Menu Link Hover/Active Color"
+msgstr "Meniu nuorodos aktyvi spalva"
+
+#: inc/customizer.php:215 inc/customizer.php:282
+msgid "Menu Link Color"
+msgstr "Meniu nuorodos spalva"
+
+#: inc/customizer.php:199 inc/customizer.php:266 inc/customizer.php:1362
+msgid "Background Color"
+msgstr "Fono spalva"
+
+#: inc/customizer.php:183
+msgid "Fixed & Transparent"
+msgstr "Fiksuota ir permatoma"
+
+#: inc/customizer.php:182
+msgid "Fixed"
+msgstr "Fiksuota"
+
+#: inc/customizer.php:181
+msgid "Default"
+msgstr "Numatyta"
+
+#: inc/customizer.php:178
+msgid "Header style"
+msgstr "Antraštės stilius"
+
+#: inc/customizer.php:162
+msgid "Header"
+msgstr "Puslapinė antraštė"
+
+#: inc/customizer.php:107
+msgid "Theme Options"
+msgstr "Temos parinktys"
+
+#: inc/customizer.php:60
+msgid "Hide site tagline"
+msgstr "Paslėpti tinklalapio apibūdinimą"
+
+#: inc/customizer.php:44
+msgid "Hide site title"
+msgstr "Paslėpti tinklalapio pavadinimą"
+
+#: inc/customizer.php:29
+msgid "Select page"
+msgstr "Pasirinkti puslapį"
+
+#: inc/customizer-controls.php:628
+msgid "Close"
+msgstr "Uždaryti"
+
+#: inc/customizer-controls.php:600
+msgid "Change"
+msgstr "Keisti"
+
+#: inc/customizer-controls.php:600
+msgid "Add"
+msgstr "Pridėti"
+
+#: inc/customizer-controls.php:599 inc/customizer-controls.php:613
+#: inc/customizer-controls.php:626
+msgid "Remove"
+msgstr "Pašalinti"
+
+#: inc/customizer-controls.php:459
+msgid "Add an item"
+msgstr "Pridėti elementą"
+
+#: inc/customizer-controls.php:350 inc/customizer-controls.php:478
+msgid "Item"
+msgstr "Elementas"
+
+#: inc/extras.php:894 inc/class-slider.php:73
+msgid "Contact Now"
+msgstr "Susisiekite"
+
+#: inc/extras.php:893 inc/class-slider.php:73
+msgid "Get Started"
+msgstr "Get Started"
+
+#: inc/class-slider.php:72
+msgid "Screenr is a multiuse fullscreen WordPress theme"
+msgstr "Screenr yra daugia-funkcinė pilno ekrano WordPress išvaizdos tema"
+
+#: inc/extras.php:891 inc/class-slider.php:71
+msgid "Your business, your website"
+msgstr "Jūsų verslas, jūsų tinklalapis"
+
+#: header.php:48
+msgid "Menu"
+msgstr "Meniu"
+
+#: header.php:30
+msgid "Skip to content"
+msgstr "Eiti prie turinio"
+
+#. Translators: If there are characters in your language that are not *
+#. supported by Montserrat, translate this to 'off'. Do not translate * into
+#. your own language.
+#: functions.php:358
+msgctxt "Montserrat font: on or off"
+msgid "on"
+msgstr "off"
+
+#. Translators: If there are characters in your language that are not *
+#. supported by Open Sans, translate this to 'off'. Do not translate * into
+#. your own language.
+#: functions.php:351
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "off"
+
+#: functions.php:247
+msgid "Footer 4"
+msgstr "Poraštė 4"
+
+#: functions.php:236
+msgid "Footer 3"
+msgstr "Poraštė 3"
+
+#: functions.php:225
+msgid "Footer 2"
+msgstr "Poraštė 2"
+
+#: functions.php:214
+msgid "Footer 1"
+msgstr "Poraštė 1"
+
+#: functions.php:188
+msgid "Sidebar"
+msgstr "Valdiklių sritis"
+
+#: functions.php:86
+msgid "Primary"
+msgstr "Pagrindinis"
+
+#: comments.php:77
+msgid "Comments are closed."
+msgstr "Komentarai uždrausti."
+
+#: comments.php:44 comments.php:64
+msgid "Newer Comments"
+msgstr "Naujesni komentarai"
+
+#: comments.php:43 comments.php:63
+msgid "Older Comments"
+msgstr "Senesni komentarai"
+
+#: comments.php:40 comments.php:60
+msgid "Comment navigation"
+msgstr "Komentaro naršymas"
+
+#: comments.php:31
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s komentaras apie &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s komentarai apie &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s komentarų apie &ldquo;%2$s&rdquo;"
+
+#: 404.php:26
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Nieko nerasta. Galbūt pabandykite vieną iš nuorodų žemiau, arba paiešką?"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Deja, toks puslapis nerastas."
+
+#. Author URI of the theme
+msgid "https://www.famethemes.com"
+msgstr "https://www.famethemes.com"
+
+#. Author of the theme
+msgid "FameThemes"
+msgstr "FameThemes"
+
+#. Theme URI of the theme
+msgid "https://www.famethemes.com/themes/screenr"
+msgstr "https://www.famethemes.com/themes/screenr"

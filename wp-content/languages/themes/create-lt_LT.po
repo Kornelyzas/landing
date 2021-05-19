@@ -1,0 +1,748 @@
+# Translation of Themes - Create in Lithuanian
+# This file is distributed under the same license as the Themes - Create package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-07-28 18:37:29+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && (n % 100 < 11 || n % 100 > 19)) ? 0 : ((n % 10 >= 2 && n % 10 <= 9 && (n % 100 < 11 || n % 100 > 19)) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha\n"
+"Language: lt\n"
+"Project-Id-Version: Themes - Create\n"
+
+#. Description of the theme
+msgid "Create your website using Create WordPress Theme. Make a remarkable first impression on your website visitors with a large headline & full-page background. How do you do it best? Do it through Create, our new WordPress Theme! Create is super easy to use and has unconventional out-of-the-box features. It is great for your personal, business or even organizational web portals. Create is based on HTML5, CSS3 and designed with a mobile-first approach in mind. Your content display will always be clean, smooth and perfect regardless of whether your visitors reach you through smartphone, tablet, laptop, or desktop computer. Create a beautiful, yet professional WordPress site in no time! This theme is translation ready and also currently translated in German language. Check out Theme Instructions at https://catchthemes.com/theme-instructions/create/, Support at https://catchthemes.com/support/ and Demo at https://catchthemes.com/demo/create/"
+msgstr "Sukurkite savo tinklalapį naudodami temą Create. Padarykite įspūdį lankytojams su didele antrašte ir pilno ekrano dydžio fonu. Temą Create lengva naudoti, ji turi daugybę reikiamų nustatymų. Su ja galite sukurti asmeninį, verslo ar organizacijos tinklalapį. Create sukurta naudojant HTML5, CSS3, o jos dizainas kurtas pirmiausia orientuojantis į mobilius įrenginius. Jūsų turinys visuomet bus rodomas aiškiai, suprantamai ir puikiai, nesvarbu ar Jūsų lankytojai naudoja telefoną, planšetę, nešiojamą ar stacionarų kompiuterį. Tema yra paruošta vertimams, jau turi vertimą į vokiečių kalbą. Temos gidas: https://catchthemes.com/theme-instructions/create/, pagalba: https://catchthemes.com/support/ ir demo: at https://catchthemes.com/demo/create/ "
+
+#. Theme Name of the theme
+msgid "Create"
+msgstr "Kurti"
+
+#: functions.php:183
+msgid "collapse child menu"
+msgstr "suskleisti sub-meniu"
+
+#: functions.php:182
+msgid "expand child menu"
+msgstr "išskleisti sub-meniu"
+
+#: inc/structure.php:396
+msgid "Y"
+msgstr "Y"
+
+#: inc/customizer-includes/customizer-theme-options.php:101
+msgid "All Categories"
+msgstr "Visos kategorijos"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:35
+msgctxt "comments title"
+msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Replies to &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s atsakymas į &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s atsakymai į &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s atsakymų į &ldquo;%2$s&rdquo;"
+
+#. translators: %s: post title
+#: comments.php:31
+msgctxt "comments title"
+msgid "One Reply to &ldquo;%s&rdquo;"
+msgstr "Vienas atsakymas į &ldquo;%s&rdquo;"
+
+#: inc/customizer.php:139
+msgid "Refresh the customizer page after saving to view reset effects"
+msgstr "Perkraukite puslapį po išsaugojimo norėdami pamatyti atstatymą."
+
+#: inc/customizer-includes/upgrade-button/class-customize.php:77
+msgid "Upgrade Now"
+msgstr "Pirkti dabar"
+
+#: inc/customizer-includes/upgrade-button/class-customize.php:76
+msgid "Create Pro"
+msgstr "Create Pro"
+
+#: searchform.php:17
+msgctxt "submit button"
+msgid "Search"
+msgstr "Paieška"
+
+#: searchform.php:14 searchform.php:15
+msgctxt "label"
+msgid "Search for:"
+msgstr "Ieškoti:"
+
+#: inc/default-options.php:101 inc/template-tags.php:35
+msgid "Page"
+msgstr "Страница"
+
+#: inc/template-tags.php:34
+msgid "Next page"
+msgstr "Tolesnis puslapis"
+
+#: inc/template-tags.php:33
+msgid "Previous page"
+msgstr "Ankstesnis puslapis"
+
+#: inc/metabox.php:144
+msgid "Create Options"
+msgstr "Create nustatymai"
+
+#: inc/extras.php:296
+msgid "Scroll Up"
+msgstr "Slinkti aukštyn"
+
+#: inc/default-options.php:409
+msgid "Disable Image"
+msgstr "Išjungti paveikslėlį"
+
+#: inc/default-options.php:399
+msgid "Full Size"
+msgstr "Pilnas"
+
+#: inc/default-options.php:373
+msgid "Disable"
+msgstr "Išjungti"
+
+#: inc/default-options.php:368
+msgid "Enable"
+msgstr "Įjungti"
+
+#: inc/default-options.php:337 inc/default-options.php:363
+#: inc/default-options.php:389
+msgid "Default"
+msgstr "Standartiniai nustatymai"
+
+#: inc/default-options.php:319
+msgid "Infinite Scroll (Click)"
+msgstr "Begalinis slinkimas (paspaudimas)"
+
+#: inc/default-options.php:315
+msgid "Infinite Scroll (Scroll)"
+msgstr "Begalinis slinkimas (slinkimas)"
+
+#: inc/default-options.php:311
+msgid "Numeric"
+msgstr "Skaitinė"
+
+#: inc/default-options.php:307
+msgid "Default(Older Posts/Newer Posts)"
+msgstr "Įprastas (senesni pranešimai/naujesni pranešimai)"
+
+#: inc/default-options.php:283
+msgid "Full size"
+msgstr "Pilnas dydis"
+
+#: inc/default-options.php:279 inc/default-options.php:394
+msgid "Large"
+msgstr "Didelis"
+
+#: inc/default-options.php:262
+msgid "Large Image"
+msgstr "Didelis paveiksliukas"
+
+#: inc/default-options.php:258
+msgid "Full Image"
+msgstr "Visas paveiksliukas"
+
+#: inc/default-options.php:254 inc/default-options.php:287
+#: inc/default-options.php:404
+msgid "Featured Image"
+msgstr "Spec. paveikslėlis"
+
+#: inc/default-options.php:238
+msgid "Show Full Content (No Featured Image)"
+msgstr "Rodyti visą turinį (be reklaminio paveikslėlio)"
+
+#: inc/default-options.php:234
+msgid "Show Excerpt"
+msgstr "Rodyti Ištrauką"
+
+#: inc/default-options.php:199 inc/default-options.php:218
+#: inc/default-options.php:347
+msgid "No Sidebar ( Full Width )"
+msgstr "Be šoninio meniu (pilnas plotis)"
+
+#: inc/default-options.php:195 inc/default-options.php:214
+#: inc/default-options.php:342
+msgid "Primary Sidebar, Content"
+msgstr "Pagrindinė šoninė juosta, turinys"
+
+#: inc/default-options.php:178
+msgid "False"
+msgstr "Netiesa"
+
+#: inc/default-options.php:174
+msgid "Wait"
+msgstr "Palaukti"
+
+#: inc/default-options.php:170
+msgid "True"
+msgstr "Tiesa"
+
+#: inc/default-options.php:38
+msgid "Search..."
+msgstr "Paieška..."
+
+#: inc/default-options.php:32
+msgid "[ . . . ]"
+msgstr "[ . . . ]"
+
+#: inc/customizer.php:41
+msgid "Check to reset all settings to default"
+msgstr "Pažymėkite norėdami atstatyti visus nustatymus į numatytuosius"
+
+#: inc/customizer.php:30
+msgid "Reset all settings"
+msgstr "Atstatyti visus nustatymus"
+
+#: inc/customizer.php:28
+msgid "Caution: Reset all settings to default. Refresh the page after save to view full effects."
+msgstr "Atsargiai: Atstatykite visus nustatymus į numatytuosius. Po išsaugojimo atnaujinkite puslapį, kad galėtumėte peržiūrėti pilną efektą."
+
+#: inc/customizer-includes/customizer-theme-options.php:309
+msgid "Default Display Text in Search"
+msgstr "Įprastas ekrano tekstas paieškoje"
+
+#: inc/customizer-includes/customizer-theme-options.php:299
+msgid "Search Options"
+msgstr "Paieškos parinktys"
+
+#: inc/customizer-includes/customizer-theme-options.php:296
+msgid "Change default placeholder text in Search."
+msgstr "Keisti numatytąjį tekstą paieškoje."
+
+#: inc/customizer-includes/customizer-theme-options.php:287
+msgid "Check to disable Scroll Up"
+msgstr "Pažymėkite norėdami išjungti Scroll Up"
+
+#: inc/customizer-includes/customizer-theme-options.php:277
+msgid "Scrollup Options"
+msgstr "Scrollup nustatymai"
+
+#: inc/customizer-includes/customizer-theme-options.php:266
+msgid "Pagination type"
+msgstr "Numeracijos tipas"
+
+#: inc/customizer-includes/customizer-theme-options.php:249
+msgid "Pagination Options"
+msgstr "Numeracijos parinktys"
+
+#: inc/customizer-includes/customizer-theme-options.php:241
+msgid "Infinite Scroll Options requires <a target=\"_blank\" href=\"%s\">JetPack Plugin</a> with Infinite Scroll module Enabled."
+msgstr "Begalinio slinkimo parinktys reikalauja <a target=\"_blank\" href=\"%s\">Jetpack įskiepio</a> su įjungtu begalinio slinkimo moduliu."
+
+#: inc/customizer-includes/customizer-theme-options.php:223
+msgid "Single Page/Post Image Layout "
+msgstr "Atskiro puslapio/įrašo paveikslėlio padėtis"
+
+#: inc/customizer-includes/customizer-theme-options.php:203
+msgid "Archive Content Layout"
+msgstr "Archyvo turinio išdėstymas"
+
+#: inc/customizer-includes/customizer-theme-options.php:177
+msgid "Default Layout"
+msgstr "Numatytasis išdėstymas"
+
+#: inc/customizer-includes/customizer-theme-options.php:158
+msgid "Frontpage Posts Layout"
+msgstr "Įrašų išdėstymas pradiniame puslapyje"
+
+#: inc/customizer-includes/customizer-theme-options.php:141 inc/metabox.php:81
+msgid "Layout Options"
+msgstr "Maketo parinktys"
+
+#: inc/customizer-includes/customizer-theme-options.php:127
+msgid "Select Categories"
+msgstr "Pasirinkite kategorijas"
+
+#: inc/customizer-includes/customizer-theme-options.php:117
+msgid "Homepage / Frontpage Options"
+msgstr "Pradžios/titulinio puslapio parinktys"
+
+#: inc/customizer-includes/customizer-theme-options.php:114
+msgid "Only posts that belong to the categories selected here will be displayed on the front page"
+msgstr "Tik pranešimai, kurie priklauso vienai iš pažymėtų kategorijų, bus rodomi tituliniame puslapyje."
+
+#: inc/customizer-includes/customizer-theme-options.php:108
+msgid "Hold down the Ctrl (windows) / Command (Mac) button to select multiple options."
+msgstr "Laikykite nuspaudę Ctrl (Windows) / Command (Mac) mygtuką, norėdami pasirinkti kelis variantus."
+
+#: inc/customizer-includes/customizer-theme-options.php:80
+msgid "Read More Text"
+msgstr "Skaityti daugiau teksto"
+
+#: inc/customizer-includes/customizer-theme-options.php:66
+msgid "Excerpt Length (words)"
+msgstr "Ištraukos Ilgis (žodžiais)"
+
+#: inc/customizer-includes/customizer-theme-options.php:59
+msgid "Excerpt length. Default is 40 words"
+msgstr "Ištraukos ilgis. Numatytasis yra 40 žodžių."
+
+#: inc/customizer-includes/customizer-theme-options.php:49
+msgid "Excerpt Options"
+msgstr "Ištraukos parinktys"
+
+#: inc/customizer-includes/customizer-theme-options.php:36
+msgid "Enter Custom CSS"
+msgstr "Įveskite individualų CSS"
+
+#: inc/customizer-includes/customizer-theme-options.php:26
+msgid "Custom CSS Options"
+msgstr "Individualaus CSS parinktys"
+
+#: inc/customizer-includes/customizer-theme-options.php:23
+msgid "Custom/Inline CSS"
+msgstr "Individualus/Inline CSS"
+
+#: inc/customizer-includes/customizer-theme-options.php:13
+msgid "Theme Options"
+msgstr "Apipavidalinimo Parinktys"
+
+#: inc/customizer-includes/customizer-theme-options.php:10
+msgid "Basic theme Options"
+msgstr "Pagrindinės temos parinktys"
+
+#: inc/customizer-includes/customizer-featured-slider-options.php:113
+msgid "Image Loader"
+msgstr "Paveikslėlių rodymas"
+
+#: inc/customizer-includes/customizer-featured-slider-options.php:12
+msgid "Featured Slider"
+msgstr "Pagrindinė karuselė"
+
+#: inc/extras.php:91
+msgid "By"
+msgstr "pagal"
+
+#: inc/extras.php:90
+msgid "Posted on"
+msgstr "Paskelbta"
+
+#: inc/default-options.php:154
+msgid "Shuffle"
+msgstr "Perrikiuoti"
+
+#: inc/default-options.php:150
+msgid "Tile Blind"
+msgstr "Plytelių užuolaida"
+
+#: inc/default-options.php:146
+msgid "Tile Slide"
+msgstr "Plytelių slinkimas"
+
+#: inc/default-options.php:142
+msgid "Flip Vertical"
+msgstr "Apsukti vertikaliai"
+
+#: inc/default-options.php:138
+msgid "Flip Horizontal"
+msgstr "Apsukti horizontaliai"
+
+#: inc/default-options.php:134
+msgid "Scroll Vertical"
+msgstr "Slinkti vertikaliai"
+
+#: inc/default-options.php:130
+msgid "Scroll Horizontal"
+msgstr "Slinkti horizontaliai"
+
+#: inc/default-options.php:126
+msgid "None"
+msgstr "Nieko"
+
+#: inc/default-options.php:122
+msgid "Fade Out"
+msgstr "Išnykti"
+
+#: inc/default-options.php:118
+msgid "Fade"
+msgstr "Nuvysti"
+
+#: inc/default-options.php:81 inc/default-options.php:291
+msgid "Disabled"
+msgstr "Išjungta"
+
+#: inc/default-options.php:77
+msgid "Entire Site"
+msgstr "Visas tinklapis"
+
+#: inc/default-options.php:73
+msgid "Homepage / Frontpage"
+msgstr "Pradžia / titulinis"
+
+#: inc/customizer-includes/customizer-featured-slider-options.php:177
+msgid "Featured Page"
+msgstr "Reklaminis puslapis"
+
+#: inc/customizer-includes/customizer-featured-slider-options.php:157
+msgid "No of Slides"
+msgstr "Skaidrių skaičius"
+
+#: inc/customizer-includes/customizer-featured-slider-options.php:150
+msgid "Save and refresh the page if No. of Slides is changed (Max no of slides is 20)"
+msgstr "Išsaugokite ir atnaujinkite puslapį, jei skaidrių skaičius yra pasikeitęs (maks. skaičius skaidrių yra 20)"
+
+#: inc/customizer-includes/customizer-featured-slider-options.php:135
+msgid "Select Slider Type"
+msgstr "Pasirinkite slankiklio tipą"
+
+#: inc/customizer-includes/customizer-featured-slider-options.php:91
+msgid "Transition Length"
+msgstr "Perėjimo ilgis"
+
+#: inc/customizer-includes/customizer-featured-slider-options.php:72
+msgid "Transition Delay"
+msgstr "Perėjimo delsimas"
+
+#: inc/customizer-includes/customizer-featured-slider-options.php:68
+#: inc/customizer-includes/customizer-featured-slider-options.php:87
+msgid "seconds(s)"
+msgstr "sekundės(-džių)"
+
+#: inc/customizer-includes/customizer-featured-slider-options.php:51
+msgid "Transition Effect"
+msgstr "Pereinamasis efektas"
+
+#: inc/customizer-includes/customizer-featured-slider-options.php:29
+msgid "Enable Slider on"
+msgstr "Įjungti slinkiklį"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Paieškos rezultatai skirti: %s"
+
+#: inc/template-tags.php:197 sidebar.php:23
+msgid "Archives"
+msgstr "Archyvai"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:195
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: inc/template-tags.php:191
+msgid "Archives: %s"
+msgstr "Archyvas: %s"
+
+#: inc/template-tags.php:189
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "Pokalbiai"
+
+#: inc/template-tags.php:187
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "Audio"
+
+#: inc/template-tags.php:185
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "Statusai"
+
+#: inc/template-tags.php:183
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "Nuorodos"
+
+#: inc/template-tags.php:181
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "Citatos"
+
+#: inc/template-tags.php:179
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "Video"
+
+#: inc/template-tags.php:177
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "Paveikslėliai"
+
+#: inc/template-tags.php:175
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "Galerijos"
+
+#: inc/template-tags.php:173
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Užrašai"
+
+#: inc/template-tags.php:171
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "F j, Y"
+
+#: inc/template-tags.php:171
+msgid "Day: %s"
+msgstr "Diena: %s"
+
+#: inc/template-tags.php:169
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-tags.php:169
+msgid "Month: %s"
+msgstr "Mėnuo: %s"
+
+#: inc/template-tags.php:167
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-tags.php:167
+msgid "Year: %s"
+msgstr "Metai: %s"
+
+#: inc/template-tags.php:165
+msgid "Author: %s"
+msgstr "Autorius: %s"
+
+#: inc/template-tags.php:163
+msgid "Tag: %s"
+msgstr "Žyma: %s"
+
+#: inc/template-tags.php:161
+msgid "Category: %s"
+msgstr "Kategorija: %s"
+
+#: inc/template-tags.php:140
+msgid "% Comments"
+msgstr "Komentarų: %"
+
+#: inc/template-tags.php:140
+msgid "1 Comment"
+msgstr "Komentarų: 1"
+
+#: inc/template-tags.php:140
+msgid "Leave a comment"
+msgstr "Komentuoti"
+
+#: inc/template-tags.php:134
+msgid "Tagged %1$s"
+msgstr "Pažymėta %1$s"
+
+#: inc/template-tags.php:128
+msgid "Posted in %1$s"
+msgstr "Paskelbta %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:126 inc/template-tags.php:132
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:109
+msgctxt "post author"
+msgid "by %s"
+msgstr "autorius %s"
+
+#: inc/template-tags.php:104
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Paskelbta %s"
+
+#: inc/template-tags.php:78
+msgctxt "Next post link"
+msgid "%title&nbsp;<span class=\"meta-nav\">&rarr;</span>"
+msgstr "%title&nbsp;<span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:77
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\">&larr;</span>&nbsp;%title"
+msgstr "<span class=\"meta-nav\">&larr;</span>&nbsp;%title"
+
+#: inc/template-tags.php:74
+msgid "Post navigation"
+msgstr "Įrašo naršymas"
+
+#: inc/template-tags.php:49
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Naujesni įrašai <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:45
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Senesni įrašai"
+
+#: inc/template-tags.php:41
+msgid "Posts navigation"
+msgstr "Navigacija tarp įrašų"
+
+#: inc/structure.php:426
+msgctxt "attribution"
+msgid "by"
+msgstr "pagal"
+
+#: inc/structure.php:396
+msgctxt "1: Year, 2: Site Title with home URL"
+msgid "&copy; %1$s %2$s"
+msgstr "&copy; %1$s %2$s"
+
+#: inc/customizer.php:100 inc/customizer.php:111
+msgid "Important Links"
+msgstr "Svarbios nuorodos"
+
+#: inc/customizer.php:88
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc/customizer.php:84
+msgid "Google+"
+msgstr "Google+"
+
+#: inc/customizer.php:80
+msgid "Twitter"
+msgstr "Twitteris"
+
+#: inc/customizer.php:76
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/customizer.php:72
+msgid "Review"
+msgstr "Peržiūra"
+
+#: inc/customizer.php:68
+msgid "Donate Now"
+msgstr "Paaukok dabar"
+
+#: inc/customizer.php:64
+msgid "Changelog"
+msgstr "Keitimų žurnalas"
+
+#: inc/customizer.php:60
+msgid "Support"
+msgstr "Palaikymas"
+
+#: inc/customizer.php:56
+msgid "Theme Instructions"
+msgstr "Temos instrukcijos"
+
+#: inc/structure.php:123
+msgid "Menu"
+msgstr "Meniu"
+
+#: inc/structure.php:57
+msgid "Skip to content"
+msgstr "Eiti prie turinio"
+
+#: functions.php:257
+msgctxt "Google font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:163
+msgid "Your Comment"
+msgstr "Jūsų komentaras"
+
+#: functions.php:162
+msgid "Website"
+msgstr "Tinklalapis"
+
+#: functions.php:161
+msgid "E-mail"
+msgstr "El. paštas"
+
+#: functions.php:160
+msgid "Your Name"
+msgstr "tavo vardas"
+
+#: functions.php:141
+msgid "Additional widget that appears only on your default homepage."
+msgstr "Papildomas valdiklis kuris rodomas numatytame pradiniame puslapyje."
+
+#: functions.php:139
+msgid "Intro Widget"
+msgstr "Prisistatymo valdiklis"
+
+#: functions.php:131
+msgid "Main sidebar that appears on the left."
+msgstr "Pagr. šoninė juosta atvaizduojama kairėje."
+
+#: functions.php:129
+msgid "Sidebar"
+msgstr "Valdiklių sritis"
+
+#: functions.php:70
+msgid "Social Menu"
+msgstr "Socialinių nuorodų meniu"
+
+#: inc/structure.php:126 inc/structure.php:135 functions.php:69
+msgid "Primary Menu"
+msgstr "Pagrindinis meniu"
+
+#: content.php:34
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Toliau skaityti %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-page.php:27 inc/template-tags.php:144
+msgid "Edit"
+msgstr "(Redaguoti)"
+
+#: content-single.php:23 content.php:39 content-page.php:20
+msgid "Pages:"
+msgstr "Puslapiai:"
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Deja, neradome to, ko Jūs ieškote. Galbūt pasisektų, jei pasinaudotumėte paieška."
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Deja, pagal Jūsų užklausą nieko nerasta. Pabandykite dar kartą, naudodami kitokius raktažodžius."
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Pasirengę paskelbti pirmąjį įrašą? <a href=\"%1$s\">Pradėkite čia</a>."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "Nepavyko rasti"
+
+#: comments.php:80
+msgid "Comments are closed."
+msgstr "Komentarai uždrausti."
+
+#: comments.php:53 comments.php:70
+msgid "Newer Comments &rarr;"
+msgstr "Naujesni komentarai &rarr;"
+
+#: comments.php:52 comments.php:69
+msgid "&larr; Older Comments"
+msgstr "&larr; Senesni komentarai"
+
+#: comments.php:51 comments.php:68
+msgid "Comment navigation"
+msgstr "Komentaro naršymas"
+
+#. translators: %1$s: smiley
+#: 404.php:44
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Pabandykite ieškoti mėnesių archyve. %1$s"
+
+#: 404.php:27
+msgid "Most Used Categories"
+msgstr "Dažniausiai naudojamos kategorijos"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Nieko nerasta. Galbūt pabandykite vieną iš nuorodų žemiau, arba paiešką?"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Deja, toks puslapis nerastas."
+
+#. Author URI of the theme
+msgid "https://catchthemes.com/"
+msgstr "https://catchthemes.com/"
+
+#. Author of the theme
+msgid "Catch Themes"
+msgstr "Catch Themes"
+
+#. Theme URI of the theme
+msgid "https://catchthemes.com/themes/create/"
+msgstr "https://catchthemes.com/themes/create/"
